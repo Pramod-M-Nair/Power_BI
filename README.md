@@ -1,9 +1,9 @@
 # Power_BI
 1. Overview of PowerBI
-A dynamic, interactive data visualization tool built to explore PowerBI and it's capabilities.
+- A dynamic, interactive data visualization tool built to explore PowerBI and it's capabilities.
 
 3. Purpose
-This initiative is designed to empower users to explore, evaluate, and compare the diverse capabilities of the Power BI platform by leveraging a variety of sample datasets. Whether you're a beginner seeking hands-on experience or a seasoned analyst testing advanced features, this approach provides a structured way to understand Power BI’s strengths across different business scenarios
+- This initiative is designed to empower users to explore, evaluate, and compare the diverse capabilities of the Power BI platform by leveraging a variety of sample datasets. Whether you're a beginner seeking hands-on experience or a seasoned analyst testing advanced features, this approach provides a structured way to understand Power BI’s strengths across different business scenarios
 
 4. Key Objectives
 - Hands on Learning: Enable users to interact with real-world datasets to understand Power BI’s interface, tools, and visualization capabilities.
@@ -13,7 +13,7 @@ This initiative is designed to empower users to explore, evaluate, and compare t
 - Visualization Diversity: Demonstrate the range of visualizations—from basic charts to advanced AI-driven insights.
 
 4. Tech Stack
-Example:
+ Example:
 - DAX: Data Analysis Expression, used to calculate simple measures of YoY%
 - Data Modeling: Establishing relationships among tables to enable cross filtering and aggregation to look for the top ranked movies between 2023 - 2025
 - Waterfall: To display the running total of sales by year and category
