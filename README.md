@@ -30,5 +30,5 @@ Example:
 - Box Office website
 
 6. Screenshots
-- https://github.com/Pramod-M-Nair/Power_BI/blob/main/Finance_Dashboard.png
-- https://github.com/Pramod-M-Nair/Power_BI/blob/main/Insights_Dashboard.png
+Show what the dashboard looks like  - (https://github.com/Pramod-M-Nair/Power_BI/blob/main/Finance_Dashboard.png)
+Example: (https://github.com/Pramod-M-Nair/Power_BI/blob/main/Insights_Dashboard.png)
