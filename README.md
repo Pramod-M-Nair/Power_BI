@@ -26,5 +26,6 @@ Example:
 - Links: Links to access the the public, published and HTML websites.
 
 5. DataSource
-PowerBi Sample Dataset
-Box Office website
+- PowerBi Sample Dataset
+- Box Office website
+
