@@ -29,3 +29,6 @@ Example:
 - PowerBi Sample Dataset
 - Box Office website
 
+6. Screenshots
+- https://github.com/Pramod-M-Nair/Power_BI/blob/main/Finance_Dashboard.png
+- https://github.com/Pramod-M-Nair/Power_BI/blob/main/Insights_Dashboard.png
